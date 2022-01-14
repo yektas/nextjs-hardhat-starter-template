@@ -4,9 +4,9 @@ import Image from "next/image";
 
 const Home: NextPage = () => {
   return (
-    <div className="flex justify-center items-center h-screen">
+    <div className="flex items-center justify-center h-screen">
       <div className="mx-auto">
-        <h1 className="">Home Screen</h1>
+        <h1 className="">Welcome to NextJS and Hardhat template</h1>
       </div>
     </div>
   );
